@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Video Player</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="try_again_message">We\'re experiencing some technical issues right now. Please check your internet connection and try again.</string>
+</resources>
